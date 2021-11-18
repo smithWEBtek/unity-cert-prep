@@ -304,7 +304,9 @@
 /define:UNITY_TEAM_LICENSE
 "Assets/Scripts/CarDisabled.cs"
 "Assets/Scripts/CarSwitcher.cs"
+"Assets/Scripts/Countdown.cs"
 "Assets/Scripts/DriftCamera.cs"
 "Assets/Scripts/EasySuspension.cs"
 "Assets/Scripts/GraphOverlay.cs"
+"Assets/Scripts/Timer.cs"
 "Assets/Scripts/WheelDrive.cs"

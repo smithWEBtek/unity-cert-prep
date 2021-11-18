@@ -60,8 +60,10 @@
     <Compile Include="Assets/Scripts/CarSwitcher.cs" />
     <Compile Include="Assets/Scripts/EasySuspension.cs" />
     <Compile Include="Assets/Scripts/WheelDrive.cs" />
-    <Compile Include="Assets/Scripts/GraphOverlay.cs" />
     <Compile Include="Assets/Scripts/CarDisabled.cs" />
+    <Compile Include="Assets/Scripts/GraphOverlay.cs" />
+    <Compile Include="Assets/Scripts/Timer.cs" />
+    <Compile Include="Assets/Scripts/Countdown.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets/Fonts/LICENSE.txt" />

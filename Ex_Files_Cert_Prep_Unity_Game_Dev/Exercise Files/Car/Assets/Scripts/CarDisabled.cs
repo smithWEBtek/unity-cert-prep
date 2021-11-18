@@ -10,7 +10,7 @@ public class CarDisabled : MonoBehaviour
         GameObject Car = GameObject.Find("FamilyCar");
         print("*********** the family car **************: " + Car);
         Rigidbody Body = Car.GetComponent<Rigidbody>();
-        Body.isKinematic = true;
+        //Body.isKinematic = true;
     }
 
     // Update is called once per frame
