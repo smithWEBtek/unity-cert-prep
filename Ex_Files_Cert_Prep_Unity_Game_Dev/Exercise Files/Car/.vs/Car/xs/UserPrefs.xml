@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{4F9212E2-498F-3E17-88EB-5F55920B82A0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CarDisabled.cs">
+    <Files>
+      <File FileName="Assets/Scripts/EasySuspension.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CarDisabled.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f621cf10-1efa-41bc-9729-431294831e7a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
