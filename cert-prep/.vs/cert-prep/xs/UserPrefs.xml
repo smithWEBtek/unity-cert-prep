@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D8D512C4-2017-CAAD-1D8E-BFD3389AE1C6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FirstScript.cs">
+    <Files>
+      <File FileName="Assets/FirstScript.cs" Line="10" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="cert-prep" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="FirstScript.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c9095163-37f6-4df8-a5c0-7ad8f54f3b95" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
