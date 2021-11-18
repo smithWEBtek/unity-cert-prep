@@ -64,6 +64,7 @@
     <Compile Include="Assets/Scripts/GraphOverlay.cs" />
     <Compile Include="Assets/Scripts/Timer.cs" />
     <Compile Include="Assets/Scripts/Countdown.cs" />
+    <Compile Include="Assets/Scripts/Checkpoint.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets/Fonts/LICENSE.txt" />
